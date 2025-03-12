@@ -5,7 +5,7 @@ public class whileloop {
 	public static void main(String[] args) {
 		{
 			
-			Ramya K
+//			Ramya K
 			/*int i=1;
 			while (i<=10)
 			{
@@ -47,8 +47,3 @@ public class whileloop {
 
 	}
 
-	public static void main(String[] args) {
-		GitProjectV1
-	}
-
-}
