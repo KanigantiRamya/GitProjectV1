@@ -6,9 +6,9 @@ public class Login {
 		String name = "liers";
 		
 		if (name == "liers")
-			System.out.println("Dont trust....");
+			System.out.println("Dont trust any one blindly.....");
 		else {
-			System.out.println("Do work....");
+			System.out.println("trust every one...");
 		}
 			
 
