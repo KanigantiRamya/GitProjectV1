@@ -10,7 +10,7 @@ public class Login {
 		else {
 			System.out.println("trust every one...");
 		}
-			
+//driver.quite();			
 
 	}
 
