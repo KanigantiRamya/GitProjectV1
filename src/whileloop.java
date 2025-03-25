@@ -5,7 +5,7 @@ public class whileloop {
 	public static void main(String[] args) {
 		{
 			
-//			Ramya K
+//			Ramya K hasee
 			/*int i=1;
 			while (i<=10)
 			{
