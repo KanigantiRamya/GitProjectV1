@@ -1,4 +1,4 @@
-
+import java.util.ArrayList;
 
 public class whileloop {
 
@@ -43,8 +43,26 @@ public class whileloop {
 				System.out.println(i);
 				i--;            //decrementation
 			}*/
+			 ArrayList<String> list = new ArrayList<>();
+		        
+		        list.add("Java");
+		        list.add("Python");
+		        list.add("C++");
+
+		        System.out.println("List: " + list);
+		        
+		        list.remove("Python");
+
+		        System.out.println("List after removal: " + list);
+		    
+
+  
+	}
+			
+			
+			
+			
 		}
 
 	}
-}
 
